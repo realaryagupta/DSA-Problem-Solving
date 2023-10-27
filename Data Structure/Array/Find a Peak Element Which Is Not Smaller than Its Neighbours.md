@@ -48,8 +48,8 @@ def findPeak(arr, n) :
 			return i 
 			
 # Driver code. 
-arr = [ 1, 3, 20, 4, 1, 0 ] 
-n = len(arr) 
+arr = [ 1, 3, 20, 4, 1, 0 ] \
+n = len(arr) \
 print("Index of a peak point is", findPeak(arr, n)) 
 
 
