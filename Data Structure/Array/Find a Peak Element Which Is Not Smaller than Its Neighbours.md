@@ -27,8 +27,7 @@ Follow the below steps to Implement the idea:
 - Else traverse the array from the second index to the second last index i.e. 1 to N – 1
 - If for an element array[i] is greater than both its neighbors, i.e., array[i] > =array[i-1]  and array[i] > =array[i+1] , then print that element and terminate.
 
-### Code
-# A Python3 program to find a peak element 
+
 
 # Find the peak element in the array 
 def findPeak(arr, n) : 
